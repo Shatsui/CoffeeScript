@@ -3,7 +3,7 @@ CoffeeScript
 
 ## Installation
 
-Just use this command to clone the generator in your directory : \n `git clone https://github.com/Shatsui/CoffeeScript.git`  
+Just use this command to clone the generator in your directory :    `git clone https://github.com/Shatsui/CoffeeScript.git`  
 Then run  `npm install`
 
 ## Usage
